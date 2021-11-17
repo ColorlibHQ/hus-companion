@@ -1,0 +1,39 @@
+/* -------------------------
+:: utility Class
+---------------------------- */
+.hus-pt-100 {
+    padding-top: 100px;
+}
+.hus-pt-80 {
+    padding-top: 80px;
+}
+.hus-pt-70 {
+    padding-top: 70px;
+}
+.hus-pt-60 {
+    padding-top: 60px;
+}
+.hus-pt-50 {
+    padding-top: 50px;
+}
+.hus-pt-30 {
+    padding-top: 30px;
+}
+.hus-pb-100 {
+    padding-bottom: 100px;
+}
+.hus-pb-80 {
+    padding-bottom: 80px;
+}
+.hus-pb-70 {
+    padding-bottom: 70px;
+}
+.hus-pb-60 {
+    padding-bottom: 60px;
+}
+.hus-pb-50 {
+    padding-bottom: 50px;
+}
+.hus-pb-30 {
+    padding-bottom: 30px;
+}
